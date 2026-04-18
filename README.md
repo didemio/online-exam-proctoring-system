@@ -48,3 +48,20 @@ This project demonstrates:
 
 ## Note
 This is a system design and modeling project. Full implementation is not included.
+
+## System Diagrams
+
+### Activity Diagram
+![Activity Diagram](diagrams/activity.png)
+
+### Requirement Diagram
+![Requirement Diagram](diagrams/requirement.png)
+
+### Functional Hierarchy
+![Hierarchy Diagram](diagrams/hierarchy.png)
+
+### EFFBD Diagram
+![EFFBD Diagram](diagrams/EFFBD.png)
+
+### IDEF0 Diagram
+![IDEF0 Diagram](diagrams/IDEF0.png)
