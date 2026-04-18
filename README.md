@@ -60,8 +60,4 @@ This is a system design and modeling project. Full implementation is not include
 ### Functional Hierarchy
 ![Hierarchy Diagram](diagrams/hierarchy.png)
 
-### EFFBD Diagram
-![EFFBD Diagram](diagrams/EFFBD.png)
 
-### IDEF0 Diagram
-![IDEF0 Diagram](diagrams/IDEF0.png)
