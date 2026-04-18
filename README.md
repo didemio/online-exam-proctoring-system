@@ -46,6 +46,15 @@ This project demonstrates:
 
 ---
 
+## How It Works
+
+1. Student logs into the system and identity is verified
+2. Monitoring modules (camera, audio, screen) are initialized
+3. Real-time data is captured and analyzed
+4. Suspicious behavior is detected
+5. Violations are logged and reported
+6. Final report is generated for the instructor
+
 ## Note
 This is a system design and modeling project. Full implementation is not included.
 
