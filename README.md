@@ -60,4 +60,5 @@ This is a system design and modeling project. Full implementation is not include
 ### Functional Hierarchy
 ![Hierarchy Diagram](diagrams/hierarchy.png)
 
-
+## Additional Documentation
+- [Project Description](project-description.md)
